@@ -1,0 +1,50 @@
+[
+  {
+    "name": "mitsubali",
+    "price": 40,
+    "createdAt": 1674481189801,
+    "inStock": true,
+    "labels": [
+      "All",
+      "Baby"
+    ],
+    "reviews": [],
+    "_id": "ocXaz"
+  },
+  {
+    "name": "hbh",
+    "price": 5,
+    "createdAt": 1674480988676,
+    "inStock": true,
+    "labels": [
+      "All",
+      "Battery Powered"
+    ],
+    "reviews": [],
+    "_id": "NOkGF"
+  },
+  {
+    "name": "kmkmkm",
+    "price": 89,
+    "createdAt": 1674480557535,
+    "inStock": true,
+    "labels": [
+      "All",
+      "Doll"
+    ],
+    "reviews": [],
+    "_id": "4dEnt"
+  },
+  {
+    "name": "sxsx",
+    "price": 0,
+    "createdAt": 1674480074184,
+    "inStock": true,
+    "labels": [
+      "All",
+      "Doll"
+    ],
+    "reviews": [],
+    "_id": "4JmIm"
+  }
+]
